@@ -20,6 +20,7 @@ public class ServerHandler extends IoHandlerAdapter {
     private final Logger log = LoggerFactory.getLogger(ServerHandler.class);
     public static Set sessions = Collections.synchronizedSet(new HashSet());
 
+
     public ServerHandler() {
     }
 
