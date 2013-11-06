@@ -1,0 +1,7 @@
+logs
+target
+tmp
+.idea
+Thunbs.db
+*.class
+*.iml
